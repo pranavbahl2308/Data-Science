@@ -1,2 +1,2 @@
 # Data-Science
-Contains my data analysis practice python notebooks
+This is the repository of my data science approaches for the online competitions I took part in. It also consist of my practice jupyter notebooks for data visualizations and machine learning model contruction.
